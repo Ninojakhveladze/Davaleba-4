@@ -129,16 +129,18 @@ h2 {
 	margin: 15px 15px;
 	font-size: 22px;
 }
-.path img {
-	width: 100px;
-	height: 117px;
+.path {
+	width: 90px;
+	height: 100px;
 	vertical-align: top;
 	display: inline-block;
+	margin: 12px 35px;
 }
 .text0 {
-	width: 200px;
+	width: 300px;
 	height: 143.29px;
 	display: inline-block;
 	font-size: 20px;
+	margin: 12px 0px;
 }
 
