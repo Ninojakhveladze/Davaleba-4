@@ -109,10 +109,11 @@ h2 {
 	margin:10px 100px;
 	width: 1170px;
 	display: block;
+	font-size: 24px;
 }
 .box2 {
 	margin: 30px 100px;
-    width: 1170px;
+    max-width: 1170px;
     height: 225px;
     display: block;
 }
@@ -125,11 +126,19 @@ h2 {
 .boxesname {
 	color: #3D58A6;
 	display: inline-block;
-	width: 274px;
-	height: 29px;
 	margin: 15px 15px;
+	font-size: 22px;
 }
 .path img {
-	width: 120px;
+	width: 100px;
 	height: 117px;
+	vertical-align: top;
+	display: inline-block;
 }
+.text0 {
+	width: 200px;
+	height: 143.29px;
+	display: inline-block;
+	font-size: 20px;
+}
+
