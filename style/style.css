@@ -118,10 +118,10 @@ h2 {
     display: block;
 }
 .box3 {
-	width: 580px;
-	display: block;
+	width: 570px;
 	height: 220px;
 	background: #F2F2F2;
+	display: inline-block;
 }
 .boxesname {
 	color: #3D58A6;
@@ -142,5 +142,12 @@ h2 {
 	display: inline-block;
 	font-size: 20px;
 	margin: 12px 0px;
+}
+.box4 {
+	margin-left: 20px;
+	width: 570px;
+	height: 220px;
+	background: #F2F2F2;
+	display: inline-block;
 }
 
