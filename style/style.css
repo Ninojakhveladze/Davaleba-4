@@ -172,3 +172,11 @@ h2 {
 	display: inline-block;
 	margin: 100px 150px;
 }
+.iframestyle {
+	width: 800px;
+	height: 400px;
+}
+.iframemap {
+	display: inline-block;
+	margin: 60px 150px;
+}
