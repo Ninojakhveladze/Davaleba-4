@@ -150,4 +150,9 @@ h2 {
 	background: #F2F2F2;
 	display: inline-block;
 }
-
+.footer3 img {
+	margin-right: 25px;
+}
+.footer4 {
+	margin: 70px 100px;
+}
